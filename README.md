@@ -1,6 +1,8 @@
 # **Problem Statement :**
 - ### `To extract  the registration number of a car entering inside a parking lot.`
 
+#### Youtube link : https://www.youtube.com/watch?v=PW2vEnUms3g&t=9s
+
 # **Softwares and Technology used :**
 - OpenCV 3
 - PIL
